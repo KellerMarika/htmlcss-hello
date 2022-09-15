@@ -1,0 +1,18 @@
+h1 {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 30px 20px;
+    background-color: aqua;
+    border: 6px solid black;
+    font-family: ;
+    
+}
+
+
+.image{
+    width: 220px;
+    margin: auto;
+    display: block;
+    margin-bottom: -15px;
+}
