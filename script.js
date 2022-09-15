@@ -1,34 +1,27 @@
+function playButton() {
+    const lady = document.getElementById('animation').classList;
+    lady.add('animated');
+}
+
+
+/* WORK IN PROGRESS */
+
 /* raccolgo dalla pagina gli elementi */
 
 /* const playButton = document.querySelector('button');
 const ladyfigure = document.querySelector('figure');
 
 
-
-playButton.addEventListener('click',function(){
-
-
-
-    
-}); */
-
 /* var figure = document.getElementById('btn');
 if(onclick){
 /*  */
 /* 
-
 function Change() {
     document.getElementById('btn').click();
 
-
-
-
     figure.classList.add("animated");
 }
-
 /* ----------------------------------------- */
-
-
 
 /* 
 document.addEventListener('click', function handleClick(event){
@@ -48,18 +41,5 @@ playButton.addEventListener('click',function handleClick(){
     figure.classList.add('animated');
 /* });
      */
-
-/* --------------------------------------- */
-
-
-
-function playButton(){
-    const list = document.getElementById('fig').classList;
- list.add('animated');
-}
-
-
-
-
-
+/*.................................... */
 
