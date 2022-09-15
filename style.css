@@ -25,6 +25,9 @@
      display: block;
  }
 
+ button:active{
+    background-color: rgb(79, 167, 167);
+ }
 
  .image {
      width: 220px;
